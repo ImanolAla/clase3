@@ -1,0 +1,30 @@
+*
+{
+    font-family: tahoma;
+    margin: 25px;
+}
+body
+{
+    background-color: lightblue;
+}
+h1
+{
+    padding: 15px;
+    border: 10px;
+    border-style: dashed;
+    color:brown;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+p
+{
+    color:blueviolet; text-align: justify;
+    border-radius: 25px;
+    border-style:solid ;
+}
+img
+{
+    width: 35%;
+
+}
